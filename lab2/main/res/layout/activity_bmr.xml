@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/TextViewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:text="TextView"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/numer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Twoja masa ciała w kg"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/numer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Twój wzrost w cm"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/numer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Twój Wiek w latach"
+        android:inputType="number" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Wybierz Płeć"
+        android:textColorLink="#FFFFFF"
+        android:textOff="Kobieta"
+        android:textOn="Mężczyzna" />
+
+    <TextView
+        android:id="@+id/wynik"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_weight="1"
+        android:text="Wynik:"
+        android:textColor="#000"
+        android:textSize="35sp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="269dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonAdd"
+            android:layout_width="132dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Oblicz" />
+
+    </LinearLayout>
+</LinearLayout>
