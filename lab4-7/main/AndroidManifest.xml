@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kosmalski.goodapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="GoodApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TimerActivity"
+            android:label="Timer"
+            ></activity>
+        <activity android:name=".EditDataActivity"
+            android:label="Edycja notatki"
+            />
+        <activity android:name=".ListDataActivity"
+            android:label="Lista notatek"
+            />
+        <activity android:name=".MealActivity"
+            android:label="Stwórz notatke"
+            />
+        <activity
+            android:name=".SourceActivity"
+            android:label="Źródło" />
+        <activity
+            android:name=".KitActivity"
+            android:label="Niezbędnik"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CompendiumActivity"
+            android:label="Kompendium" />
+        <activity
+            android:name=".AtlasActivity"
+            android:label="Atlas" />
+        <activity
+            android:name=".BmrActivity"
+            android:label="Bmr" />
+        <activity
+            android:name=".BmiActivity"
+            android:label="Bmi" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

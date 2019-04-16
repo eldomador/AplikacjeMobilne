@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">GoodApp</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <string-array name="level">
+        <item>Początkujący</item>
+        <item>Zaawansowany</item>
+    </string-array>
+
+
+    <string name="lev0Part1Inhome0">
+        Podstawowe ćwiczenia na bicepsy
+
+Najlepsze ćwiczenie to oczywiście unoszenie przedramion ze sztangą w dłoniach. W tym bowiem ćwiczeniu możesz stosować największe ciężary.
+Prawidłowa technika wykonania
+
+Złap sztangę podchwytem, trzymając dłonie na szerokości barków. W początkowej fazie ramiona powinny być wyprostowane,
+        tak by sztanga prawie opierała się o uda. Trzymając proste plecy i wciągnięte mięśnie brzucha, unieś sztangę ruchem półkolistym,
+        aż przedramiona dotkną bicepsów. Zatrzymaj sztangę na moment zanim jeszcze Twoje przedramiona będą prostopadłe do podłoża, a następnie opuść ją do pozycji startowej.
+    </string>
+
+    <string name="lev0Part2Inhome0">
+
+        Ćwiczenie podstawowe
+
+Najważniejsze i niezbędne ćwiczenie to wyciskanie sztangi na ławeczce. Angażuje i buduje więcej włókien mięśniowych w klatce piersiowej niż jakiekolwiek inne znane nam ćwiczenie.
+
+Prawidłowa technika wykonania
+
+Połóż się na ławeczce, tak by głowa, tułów i biodra miały pewne oparcie. Stopy w lekkim rozkroku, płasko na podłodze. Sztangę złap nachwytem, obejmując ją kciukiem od dołu. Dłonie rozstaw nieco szerzej niż na szerokość barków. Unieś sztangę ze stojaków i trzymaj na wyprostowanych ramionach nad obojczykami. Cofnij łopatki i opuszczaj powoli sztangę, do momentu aż dotknie klatki na wysokości sutków. Cały czas kontroluj ciężar. Następnie unieś ją, tak by ponownie znalazła się nad obojczykami. Możesz zablokować na moment ręce w stawach łokciowych. Łopatki trzymaj cały czas ściągnięte.
+
+    </string>
+
+    <string name="lev0Part3Inhome0">
+
+  Przysiady z zatrzymaniem ruchu
+
+Stań ze sztangą na ramionach z obciążeniem, z którym możesz wykonać 6 przysiadów. Zrób przysiad do momentu, kiedy uda będą równoległe do podłoża i zatrzymaj się na 1 sekundę.
+
+Zacznij wstawać i w momencie, kiedy dojdziesz do półprzysiadu, zatrzymaj się ponownie i wróć do pozycji. Znowu zatrzymaj się na 1 sekundę i wróć do całkowitego wyprostu. Zrób 5 powtórzeń.
+    </string>
+
+    <string name="lev0Part1Inhome1">
+Podciąganie to ćwiczenie budujące całą górę: szerokie plecy i potężne ramiona. Oto sposób, by opanować je do perfekcji, niezależnie od poziomu, z którego startujesz. Ten trening sprawi, że Twoje plecy przybiorą kształt litery V, a ramiona wypełnią rękawki koszulki.
+  </string>
+
+    <string name="lev0Part2Inhome1">
+        Dobrze wykonana pompka to pompka pełnozakresowa, podczas wykonywania której nasze ciało zatrzyma się dosłownie milimetry przed podłożem. Jest to oczywiście trudniejsze niż ruchy połowiczne, lecz angażuje o wiele więcej jednostek motorycznych, a na tym powinno nam zależeć przede wszystkim, gdy chcemy stymulować mięśnie do wzrostu. Kończymy ruch, osiągając pełen wyprost w stawie łokciowym (wyprost, nie przeprost).
+   </string>
+
+    <string name="lev0Part3Inhome1">
+        Przeskoki w bok
+
+Stań obok wyznaczonej linii (może to być drążek lub linia, którą będziesz widział tylko Ty). Stopy trzymaj blisko siebie, a kolana lekko zgięte. Przeskocz nad linią, wybijając się z obu nóg naraz.
+
+Kiedy tylko dotkniesz podłoża, staraj się jak najszybciej skoczyć w drugą stronę. Wykonaj maksymalną liczbę powtórzeń w ciągu 15 sekund.
+   </string>
+
+    <string name="lev1Part1Inhome0">
+        Unoszenie ramion na modlitewniku
+Usiądź przy modlitewniku (doskonały przyrząd do ćwiczenia bicepsów, zapewniający prawie całkowitą ich izolację) i chwyć sztangę łamaną, trzymając dłonie rozstawione na szerokość barków. Łokcie oprzyj o podpórkę urządzenia. Zaczynając w tej pozycji, unieś przedramiona i sztangę. Zatrzymaj na moment i powoli opuść do pozycji wyjściowej. Podczas ćwiczenia nie prostuj do końca ramion w łokciach.
+Dla twardzieli. Zamiast sztangi łamanej możesz wykorzystać uchwyt z linką wyciągu dolnego. Uzyskuje się przez to stałe obciążenie w całym zakresie ruchu podczas unoszenia i opuszczania przedramienia.
+  </string>
+
+
+    <string name="lev1Part2Inhome0">
+         Wyciskanie w leżeniu na ławce skośnej
+
+Połóż się plecami na ławeczce skośnej i chwyć sztangielki nachwytem. Sztangielki trzymaj nad klatką piersiową, ramiona lekko ugięte, następnie powoli opuść je, odwodząc łokcie na bok, tak aby znalazły się jak najniżej. Potem powoli wróć do pozycji wyjściowej. Staraj się jak najmocniej rozciągnąć klatkę w fazie opuszczania ramion (jak najniżej opuścić sztangielki). Pilnuj, aby przedramiona były pionowo.
+Dla twardzieli. Zmieniaj kąt nachylenia ławki. Rozpocznij od ustawienia najbliżej pionu (co oznacza silniejszy nacisk na barki i górne partie klatki), każde następne niech będzie o jeden stopień bliżej poziomu.
+  </string>
+
+
+    <string name="lev1Part1Inhome1">
+
+ </string>
+    <string name="lev1Part2Inhome1">
+
+ </string>
+    <string name="lev1Part3Inhome1">
+
+ </string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kit">KitActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
